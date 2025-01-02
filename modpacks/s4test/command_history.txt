@@ -1,0 +1,9 @@
+/locate biome minecraft:plains
+/tp @s 2187 161 -1269
+/locate biome minecraft:flower_forest
+/tp @s -2188 137 2186
+/locate biome #c:has_wolf_variant/pale
+/tp @s -3516 97 4326
+/tell mmaplee whats pass?
+/sh
+/spin
